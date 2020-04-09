@@ -1,5 +1,5 @@
 # slam
-Simple Examples implementations of mapping and slam in c++.
+Simple Examples implementations of mapping and location slam in c++.
 
 # running code
 
